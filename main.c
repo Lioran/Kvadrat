@@ -16,4 +16,5 @@ int main () {
 		x2=(-b-sqrt(D)/2*a);
 		printf ("корени равны  %d %d", x1, x2);
 	}
+return 0;
 }
